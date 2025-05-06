@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "my-website-trash"
+  title: "my-website"
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +13,7 @@ website:
 format:
   html:
     theme: sketchy
+    fontcolor: darkcyan
     css: styles.css
     toc: true
 

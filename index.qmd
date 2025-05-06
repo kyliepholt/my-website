@@ -1,5 +1,5 @@
 ---
-title: "my-website-trash"
+title: "my-website"
 ---
 
 This is a Quarto website.
